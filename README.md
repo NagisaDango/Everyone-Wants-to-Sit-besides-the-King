@@ -2,6 +2,8 @@
 
 Group 17: Yilin Pan, Shengjie Zhang, Jichao Huang, Yiran Luo, Allan Tsai
 
+!!! THIS IS SAME AS THE Rule Book.pdf
+
 ## Amount of Players:
 
 5 - 7 players
@@ -71,6 +73,81 @@ Since the round is going counterclockwise when player 1ʼs turn ends, the next p
 __2. Condemn x 5__
 
 (Kill any player at the end of the casterʼs next turn if attack is not blocked, if the casterʼs turn is skipped, the kill will be postponed)
+
+__3. Self-Clearance x 4 ( Instinct Card )__
+
+Could be used at any time. (Players with this card could counter the Condemn card targeted to themselves and avoid death.) 
+
+__4. Clearance x 3 ( Instinct Card )__
+
+Could be used at any time. (Players with this card could counter the Condemn card targeted to any one and avoid death.) 
+
+__5. Counter-Condemn x 2 ( Instinct Card )__
+
+Could be used at any time. (Players with this card could counter the Condemn card, avoid death, and reverse the effect of that Condemn card back to its caster. If the caster of the Condemn card is the Emperor, Counter Condemn serves as Self Clearance.) 
+
+__6. Swap x 1__
+
+(Swap one of your identity cards with one identity card from any player that you chose. Cannot choose the Emperor as the target.) 
+
+__7. Investigation x 2__
+
+(check two identity cards of one player or one each of two players) 
+
+__8. Reveal x 2__ 
+
+(Reveal one identity card of one player to everyone, stay revealed until the target shuffle their identity cards) 
+
+__9. Guarding x 1( Instinct Card )__
+
+Could be used at any time.(Switch position with player on the left or right side of the Emperor) 
+
+__10. Accuse x 1( Instinct Card )__
+
+Could be used at any time. (Choose a player and their next turn is skipped.) 
+
+__11. Reverse x 1:( Instinct Card )__ 
+
+Could be used at any time. (Reverse the direction of turn of this round) 
+
+__12. Steal x 1:__ 
+
+(Steal all the ability cards of one player and discard extra cards) 
+
+## Emperor Special Effect: 
+
+These cards have special effects when casted by the Emperor: 
+
+__Transposition:__
+
+(Exchange positions with any player) 
+
+__Condemn:__
+
+(If Condemn is blocked, the Condemn target needs to discard their hand.) 
+
+__Guarding:__
+
+(Switch the position of any player with another player who's sitting beside the Emperor) 
+
+## Rebel Special Effect: 
+
+__Condemn:__ 
+
+(Can be used on the Emperor only when sitting next to the Emperor.)
+
+## Winning Condition：
+
+__Loyalist & Emperor:__ 
+
+Kill all the Rebels 
+
+__Rebel:__ 
+
+When a Rebel is sitting next to the Emperor and uses Condemn on the Emperor, if the Condemn is not blocked at the end of the Emperorʼs turn, the Emperor dies and the Rebels win. 
+
+When a Rebel is sitting next to the Emperor and uses Condemn on the Emperor, if the Condemn is blocked, in the same round, if the other player sitting next to the Emperor is also a Rebel and uses Condemn on the Emperor, the Emperor died, and this second Condemn cannot be blocked or countered.
+
 
 
 
